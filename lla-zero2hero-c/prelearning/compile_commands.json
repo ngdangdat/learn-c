@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/ndd/learn/learn-c/lla-zero2hero-c/prelearning",
+    "command": "gcc -I./include -c src/main.c -o main.o",
+    "file": "src/main.c"
+  }
+]
